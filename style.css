@@ -1,0 +1,13 @@
+/* header parts style start */
+
+.honda-header-background {
+    background-color: #264653;
+}
+
+#purchase-btn {    
+        background-color: #E76F51;
+        color: white;
+        padding: 10px 48px;   
+}
+
+/* header parts style ends */
