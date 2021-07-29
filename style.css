@@ -14,4 +14,29 @@
         padding: 10px 48px;   
 }
 
-/* header parts style ends */
+/*----------------------
+ header parts style ends 
+ -----------------------*/
+
+
+ /*----------------------
+ main parts style starts 
+ -----------------------*/
+
+ .bike-grayscale {
+    filter: grayscale(1);
+ } 
+
+ .filled {
+    color: #E76F51; 
+ }
+
+.fa-star.empty {
+color: #AEAEAE;
+}
+
+ 
+
+ /*----------------------
+ main parts style ends 
+ -----------------------*/
