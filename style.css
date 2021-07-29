@@ -1,4 +1,6 @@
-/* header parts style start */
+/*-----------------------
+ header parts style start
+ ------------------------ */
 
 .honda-header-background {
     background-color: #264653;
@@ -23,9 +25,25 @@
  main parts style starts 
  -----------------------*/
 
+ /*----------------------------
+  Fetured Bikes 2021 style start
+  --------------------------- */
+
  .bike-grayscale {
     filter: grayscale(1);
  } 
+
+ /*----------------------------
+  Fetured Bikes 2021 style end
+  --------------------------- */
+
+ /* ---------------------
+ Happy Clients says style start
+ ----------------------- */
+
+ .review-card-width {
+     width: 320px;
+ }
 
  .filled {
     color: #E76F51; 
@@ -35,7 +53,9 @@
 color: #AEAEAE;
 }
 
- 
+ /* ---------------------
+ Happy Clients says style end
+ ----------------------- */
 
  /*----------------------
  main parts style ends 
